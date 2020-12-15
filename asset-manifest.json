@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/spotify-charts/static/css/main.020c53c2.chunk.css",
+    "main.js": "/spotify-charts/static/js/main.b19682ab.chunk.js",
+    "main.js.map": "/spotify-charts/static/js/main.b19682ab.chunk.js.map",
+    "runtime-main.js": "/spotify-charts/static/js/runtime-main.693657fc.js",
+    "runtime-main.js.map": "/spotify-charts/static/js/runtime-main.693657fc.js.map",
+    "static/css/2.43b2b750.chunk.css": "/spotify-charts/static/css/2.43b2b750.chunk.css",
+    "static/js/2.34465467.chunk.js": "/spotify-charts/static/js/2.34465467.chunk.js",
+    "static/js/2.34465467.chunk.js.map": "/spotify-charts/static/js/2.34465467.chunk.js.map",
+    "static/js/3.025fde4a.chunk.js": "/spotify-charts/static/js/3.025fde4a.chunk.js",
+    "static/js/3.025fde4a.chunk.js.map": "/spotify-charts/static/js/3.025fde4a.chunk.js.map",
+    "index.html": "/spotify-charts/index.html",
+    "static/css/2.43b2b750.chunk.css.map": "/spotify-charts/static/css/2.43b2b750.chunk.css.map",
+    "static/css/main.020c53c2.chunk.css.map": "/spotify-charts/static/css/main.020c53c2.chunk.css.map",
+    "static/js/2.34465467.chunk.js.LICENSE.txt": "/spotify-charts/static/js/2.34465467.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/spotify-charts/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.693657fc.js",
+    "static/css/2.43b2b750.chunk.css",
+    "static/js/2.34465467.chunk.js",
+    "static/css/main.020c53c2.chunk.css",
+    "static/js/main.b19682ab.chunk.js"
+  ]
+}
